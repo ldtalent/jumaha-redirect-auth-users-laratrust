@@ -1,0 +1,1 @@
+# jumaha-redirect-auth-users-laratrust
